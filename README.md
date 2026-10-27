@@ -17,3 +17,9 @@ Remember, don't run with scissors, don't play in traffic, and for the love of ev
 Good day, you magnificent deviants. 
 
 /tp 3406.36, 5505.72, 25.41 yw
+
+Blender 5.2.3
+Sollumz 2.9.0
+CodeWalker (CodeWalker.Core)
+DirectXTex texconv 2026.5.8.1
+OpenIV 4.1
