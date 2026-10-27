@@ -20,6 +20,6 @@ Good day, you magnificent deviants.
 
 Blender 5.2.3
 Sollumz 2.9.0
-CodeWalker (CodeWalker.Core)
+CodeWalker (Latest Release)
 DirectXTex texconv 2026.5.8.1
 OpenIV 4.1
